@@ -19,4 +19,3 @@ Furthermore, Figma's cloud-based nature means that designs are stored online and
 
 Figma has become a favorite tool among designers and design teams due to its accessibility, flexibility, and focus on collaboration. Its continuous updates and improvements reflect its commitment to staying at the forefront of design technology and catering to the evolving needs of the design community.
 
-In conclusion, Figma is a versatile and innovative design tool that has revolutionized the way designers work together on projects. Its collaborative features, design capabilities, and cloud-based infrastructure have made it an indispensable tool in the modern design landscape.
