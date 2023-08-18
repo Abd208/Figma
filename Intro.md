@@ -1,4 +1,3 @@
-Certainly! Here's the information about Figma converted into a Markdown (.md) format:
 
 # Introduction to Figma App
 
